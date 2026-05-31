@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="grad4" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#2c2c2c;stop-opacity:0.9" />
+      <stop offset="50%" style="stop-color:#1a1a1a;stop-opacity:0.75" />
+      <stop offset="100%" style="stop-color:#0f0f0f;stop-opacity:0.85" />
+    </linearGradient>
+  </defs>
+  <path d="M60 40 Q80 25 100 30 Q120 25 140 40 L150 60 Q155 85 148 110 Q140 130 120 140 Q110 145 100 145 Q90 145 80 140 Q60 130 52 110 Q45 85 50 60Z" fill="url(#grad4)" opacity="0.85"/>
+  <path d="M35 100 Q25 80 35 60 Q50 40 80 30 Q100 25 120 30 Q150 40 165 60 Q175 80 165 100 L160 130 Q140 160 100 165 Q60 160 40 130Z" fill="#252525" opacity="0.8"/>
+  <path d="M40 95 Q30 70 50 50 Q70 35 100 35 Q130 35 150 50 Q170 70 160 95 L155 120 Q130 150 100 155 Q70 150 45 120Z" fill="#1f1f1f" opacity="0.7"/>
+  <path d="M50 60 Q60 35 100 30 Q140 35 150 60" stroke="#3a3a3a" stroke-width="2" fill="none" opacity="0.5"/>
+</svg>
